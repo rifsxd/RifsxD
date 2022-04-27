@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/os-Pop!__OS-informational?style=for-the-badge&logo=Pop!_OS&logoColor=79DAFA&color=DC6385&labelColor=22272e" />
+  <img src="https://img.shields.io/badge/os-Arch Linux-informational?style=for-the-badge&logo=Pop!_OS&logoColor=79DAFA&color=DC6385&labelColor=22272e" />
   <img src="https://img.shields.io/badge/ide-IntelliJ-informational?style=for-the-badge&logo=intellij-idea&logoColor=79DAFA&color=DC6385&labelColor=22272e" />
   <img src="https://img.shields.io/badge/cloud-Heroku-informational?style=for-the-badge&logo=heroku&logoColor=79DAFA&color=DC6385&labelColor=22272e" />
   <img src="https://img.shields.io/badge/lang-php-informational?style=for-the-badge&logo=php&logoColor=79DAFA&color=DC6385&labelColor=22272e" />
