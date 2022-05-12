@@ -1,10 +1,10 @@
 <div aligh="center">
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=ridsxd&label=Profile%20views&color=0e75b6&style=flat" alt="rifsxd" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=RifsxD&label=Profile%20views&color=0e75b6&style=flat" alt="RifsxD" /> </p>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rifsxd&count_private=true&show_icons=true&theme=dracula&line_height=24&bg_color=22272e&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifsxd&theme=dracula&layout=compact&langs_count=10&bg_color=22272e&hide_border=true&card_width=275" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RifsxD&count_private=true&show_icons=true&theme=dracula&line_height=24&bg_color=22272e&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifsxD&theme=dracula&layout=compact&langs_count=10&bg_color=22272e&hide_border=true&card_width=275" />
 </div>
 
 <div align="center">
