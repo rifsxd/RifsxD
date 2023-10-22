@@ -15,3 +15,8 @@
   <img src="https://img.shields.io/badge/lang-GO-informational?style=for-the-badge&logo=go&logoColor=79DAFA&color=DC6385&labelColor=22272e" />
     <img src="https://img.shields.io/badge/lang-C++-informational?style=for-the-badge&logo=cplusplus&logoColor=79DAFA&color=DC6385&labelColor=22272e" />
 </div>
+
+<div align="center">
+  This is my [current setup]
+
+  ![banner](desktop/setup.png)
