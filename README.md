@@ -17,6 +17,6 @@
 </div>
 
 <div align="center">
-  This is my [current setup]
+  My desktop environment as of 2023 Q4 [current setup]
 
-  ![banner](desktop/setup.png)
+  ![banner](assets/desktop-setup.png)
