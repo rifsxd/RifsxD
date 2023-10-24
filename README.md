@@ -9,11 +9,12 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/os-Arch Linux-informational?style=for-the-badge&logo=archlinux&logoColor=79DAFA&color=DC6385&labelColor=22272e" />
+  <img src="https://img.shields.io/badge/wm-BSPWM-informational?style=for-the-badge&logo=bspwm&logoColor=79DAFA&color=DC6385&labelColor=22272e" />
   <img src="https://img.shields.io/badge/ide-VS CODE-informational?style=for-the-badge&logo=visualstudiocode&logoColor=79DAFA&color=DC6385&labelColor=22272e" />
   <img src="https://img.shields.io/badge/cloud-Cloudflare-informational?style=for-the-badge&logo=cloudflare&logoColor=79DAFA&color=DC6385&labelColor=22272e" />
   <img src="https://img.shields.io/badge/lang-JS-informational?style=for-the-badge&logo=javascript&logoColor=79DAFA&color=DC6385&labelColor=22272e" />
   <img src="https://img.shields.io/badge/lang-GO-informational?style=for-the-badge&logo=go&logoColor=79DAFA&color=DC6385&labelColor=22272e" />
-    <img src="https://img.shields.io/badge/lang-C++-informational?style=for-the-badge&logo=cplusplus&logoColor=79DAFA&color=DC6385&labelColor=22272e" />
+  <img src="https://img.shields.io/badge/lang-C++-informational?style=for-the-badge&logo=cplusplus&logoColor=79DAFA&color=DC6385&labelColor=22272e" />
 </div>
 
 <div align="center">
