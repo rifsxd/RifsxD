@@ -20,6 +20,6 @@
 </div>
 
 <div align="center">
-  <strong>My desktop environment as of 2023 Q4 <a href="https://github.com/rifsxd/rxd-bspwm-sakura-theme" target="blank">[current setup]</a></h1></strong>
+  <strong>My desktop environment as of 2023 Q4 <a href="https://github.com/rifsxd/rxd-bspwm-sakura-theme">[current setup]</a></h1></strong>
 
   ![banner](assets/new.desktop-setup.png)
