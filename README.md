@@ -9,10 +9,10 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/cpu-AMD-informational?style=for-the-badge&logo=amd&logoColor=79DAFA&color=B0B1DF&labelColor=22272e" />
+  <img src="https://img.shields.io/badge/gpu-RADEON-informational?style=for-the-badge&logo=amd&logoColor=79DAFA&color=B0B1DF&labelColor=22272e" />
   <img src="https://img.shields.io/badge/gpu-NVIDIA-informational?style=for-the-badge&logo=nvidia&logoColor=79DAFA&color=B0B1DF&labelColor=22272e" />
-   <img src="https://img.shields.io/badge/gpu-RADEON-informational?style=for-the-badge&logo=amd-radeon&logoColor=79DAFA&color=B0B1DF&labelColor=22272e" />
   <img src="https://img.shields.io/badge/os-Arch Linux-informational?style=for-the-badge&logo=archlinux&logoColor=79DAFA&color=B0B1DF&labelColor=22272e" />
-  <img src="https://img.shields.io/badge/wm-BSPWM-informational?style=for-the-badge&logo=bspwm&logoColor=79DAFA&color=B0B1DF&labelColor=22272e" />
+  <img src="https://img.shields.io/badge/wm-Hyprland-informational?style=for-the-badge&logo=hyprland&logoColor=79DAFA&color=B0B1DF&labelColor=22272e" />
   <img src="https://img.shields.io/badge/ide-VS CODE-informational?style=for-the-badge&logo=visualstudiocode&logoColor=79DAFA&color=B0B1DF&labelColor=22272e" />
   <img src="https://img.shields.io/badge/cloud-Cloudflare-informational?style=for-the-badge&logo=cloudflare&logoColor=79DAFA&color=B0B1DF&labelColor=22272e" />
   <img src="https://img.shields.io/badge/lang-JS-informational?style=for-the-badge&logo=javascript&logoColor=79DAFA&color=B0B1DF&labelColor=22272e" />
