@@ -1,5 +1,5 @@
 <div aligh="center">
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=RifsxD&label=Profile%20views&color=D8A1F1&style=for-the-badge" alt="RifsxD" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=RifsxD&label=Profile%20views&color=EB97F2&style=for-the-badge" alt="RifsxD" /> </p>
 </div>
 
 <div align="center">
