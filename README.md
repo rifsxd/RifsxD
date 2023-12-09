@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/cpu-AMD-informational?style=for-the-badge&logo=amd&logoColor=79DAFA&color=282828&labelColor=ebdbb2" />
+  <img src="https://img.shields.io/badge/cpu-AMD-informational?style=for-the-badge&logo=amd&logoColor=ebdbb2&color=282828&labelColor=ebdbb2" />
   <img src="https://img.shields.io/badge/gpu-RADEON-informational?style=for-the-badge&logo=amd&logoColor=79DAFA&color=B0B1DF&labelColor=22272e" />
   <img src="https://img.shields.io/badge/gpu-NVIDIA-informational?style=for-the-badge&logo=nvidia&logoColor=79DAFA&color=B0B1DF&labelColor=22272e" />
   <img src="https://img.shields.io/badge/os-Arch Linux-informational?style=for-the-badge&logo=archlinux&logoColor=79DAFA&color=B0B1DF&labelColor=22272e" />
