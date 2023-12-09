@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/lang-C++-informational?style=for-the-badge&logo=cplusplus&logoColor=282828&color=282828&labelColor=ebdbb2" />
 </div>
 
-
 <p align="center"><strong><font color="#fbf1c7">My desktop environment as of Winter 2023</font></strong></p>
 
-  ![banner](assets/new.desktop-setup.png)
+![banner](assets/new.desktop-setup.png)
