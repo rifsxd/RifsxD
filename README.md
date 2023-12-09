@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RifsxD&count_private=true&show_icons=true&theme=catppuccin-mocha-lavender&line_height=24&bg_color=1E1E2E&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RifsxD&count_private=true&show_icons=true&theme=gruvbox-dark&line_height=24&bg_color=1E1E2E&hide_border=true" />
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RifsxD&theme=catppuccin-mocha-lavender&layout=compact&langs_count=10&bg_color=1E1E2E&hide_border=true&card_width=275" />
 </div>
 
