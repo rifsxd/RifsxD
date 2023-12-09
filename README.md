@@ -22,6 +22,6 @@
 </div>
 
 <div align="center">
-  <strong>My desktop environment as of 2023 Q4</strong>
+  <span style="color: #ebdbb2;"><strong>My desktop environment as of Winter 2023</strong></span>
 
   ![banner](assets/new.desktop-setup.png)
