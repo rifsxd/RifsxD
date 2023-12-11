@@ -25,4 +25,4 @@
   <p align="center"><strong>My desktop environment as of Winter 2023</strong></p>
 </div>
 
-![banner](assets/winter.desktop-setup.png)
+![banner](assets/cozy-winter.desktop-setup.png)
