@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/wm-Awesomewm-informational?style=for-the-badge&logo=awesomewm&logoColor=282828&color=282828&labelColor=ebdbb2" />
   <img src="https://img.shields.io/badge/ide-VS CODE-informational?style=for-the-badge&logo=visualstudiocode&logoColor=282828&color=282828&labelColor=ebdbb2" />
   <img src="https://img.shields.io/badge/cloud-Cloudflare-informational?style=for-the-badge&logo=cloudflare&logoColor=282828&color=282828&labelColor=ebdbb2" />
-  <img src="https://img.shields.io/badge/lang-JS-informational?style=for-the-badge&logo=javascript&logoColor=282828&color=282828&labelColor=ebdbb2" />
+  <img src="https://img.shields.io/badge/lang-PY-informational?style=for-the-badge&logo=python&logoColor=282828&color=282828&labelColor=ebdbb2" />
   <img src="https://img.shields.io/badge/lang-GO-informational?style=for-the-badge&logo=go&logoColor=282828&color=282828&labelColor=ebdbb2" />
   <img src="https://img.shields.io/badge/lang-C-informational?style=for-the-badge&logo=c&logoColor=282828&color=282828&labelColor=ebdbb2" />
   <img src="https://img.shields.io/badge/lang-C++-informational?style=for-the-badge&logo=cplusplus&logoColor=282828&color=282828&labelColor=ebdbb2" />
