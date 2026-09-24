@@ -5,11 +5,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/cpu-AMD-informational?style=for-the-badge&logo=amd&logoColor=282828&color=282828&labelColor=ebdbb2" />
   <img src="https://img.shields.io/badge/gpu-RADEON-informational?style=for-the-badge&logo=amd&logoColor=282828&color=282828&labelColor=ebdbb2" />
-  <img src="https://img.shields.io/badge/gpu-NVIDIA-informational?style=for-the-badge&logo=nvidia&logoColor=282828&color=282828&labelColor=ebdbb2" />
   <img src="https://img.shields.io/badge/os-Arch Linux-informational?style=for-the-badge&logo=archlinux&logoColor=282828&color=282828&labelColor=ebdbb2" />
   <img src="https://img.shields.io/badge/wm-Awesomewm-informational?style=for-the-badge&logo=awesomewm&logoColor=282828&color=282828&labelColor=ebdbb2" />
   <img src="https://img.shields.io/badge/ide-VS CODE-informational?style=for-the-badge&logo=visualstudiocode&logoColor=282828&color=282828&labelColor=ebdbb2" />
-  <img src="https://img.shields.io/badge/cloud-Cloudflare-informational?style=for-the-badge&logo=cloudflare&logoColor=282828&color=282828&labelColor=ebdbb2" />
   <img src="https://img.shields.io/badge/lang-PY-informational?style=for-the-badge&logo=python&logoColor=282828&color=282828&labelColor=ebdbb2" />
   <img src="https://img.shields.io/badge/lang-GO-informational?style=for-the-badge&logo=go&logoColor=282828&color=282828&labelColor=ebdbb2" />
   <img src="https://img.shields.io/badge/lang-C-informational?style=for-the-badge&logo=c&logoColor=282828&color=282828&labelColor=ebdbb2" />
