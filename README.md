@@ -3,11 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RifsxD&count_private=true&show_icons=true&theme=gruvbox&line_height=24&bg_color=282828&hide_border=true" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RifsxD&theme=gruvbox&layout=compact&langs_count=10&bg_color=282828&hide_border=true&card_width=275" />
-</div>
-
-<div align="center">
   <img src="https://img.shields.io/badge/cpu-AMD-informational?style=for-the-badge&logo=amd&logoColor=282828&color=282828&labelColor=ebdbb2" />
   <img src="https://img.shields.io/badge/gpu-RADEON-informational?style=for-the-badge&logo=amd&logoColor=282828&color=282828&labelColor=ebdbb2" />
   <img src="https://img.shields.io/badge/gpu-NVIDIA-informational?style=for-the-badge&logo=nvidia&logoColor=282828&color=282828&labelColor=ebdbb2" />
